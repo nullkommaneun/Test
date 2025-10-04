@@ -1,0 +1,5 @@
+{
+  "name": "Bluetooth LE Scanner PWA",
+  "description": "A modern Progressive Web App to scan for Bluetooth Low Energy devices using the Web Bluetooth API. It displays devices, stores them locally, and allows exporting the list to CSV.",
+  "requestFramePermissions": []
+}

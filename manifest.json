@@ -1,0 +1,16 @@
+
+{
+  "short_name": "BT Scanner",
+  "name": "Bluetooth LE Scanner",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2RiZTVmZiI+PHBhdGggZD0iTTE4LjUgNi41TDEzIDEuOVYxMC4wOEwxOC41IDYuNVpNMTguNSAxNy41TDEzIDIyLjFWMTMuOTJMMTguNSAxNy41TTYuNSA4LjA5TDEwLjI1IDEwLjVMNi41IDEyLjlWOC4wOVpNMTIgNUw2LjUgOC41TDEyIDEyVjVaTTEyIDE5VjEyTDYuNSAxNS41TDEyIDE5TTIwIDE4VjZMMTQuNSAxTDEzIDJWMi45MUwxMS41IDQuNDFMMTMgNS45MVYxMC4wOUwxMSA4LjlMMTAuMiAxMS40OEw2IDE4LjI4VjI0TDE0LjUgMjNMMjAgMThaTTE1IDE2LjI1VjcuNzVMMTcuMiA5LjVMMTUgMTEuMjVWMTRMMTcuMiAxNS43NUwxNSAxNy41VjE2LjI1WiIvPjwvc3ZnPg==",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#111827"
+}
